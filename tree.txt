@@ -1,0 +1,11 @@
+-1:0:r:furry
+0:1:l:squeeky
+0:2:r:aquatic
+1:3:l:a mouse
+1:7:r:sneaky
+2:9:l:carnivorous
+2:6:r:a snake
+7:8:l:a cat
+7:4:r:a dog
+9:10:l:a Alligator
+9:5:r:a fish
